@@ -2,7 +2,8 @@
 """review class for project"""
 from models.base_model import BaseModel
 
-class review(BaseModel):
+
+class Review(BaseModel):
     """describes a review.
     Attributes:
     place_id,

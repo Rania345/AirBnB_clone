@@ -2,7 +2,8 @@
 """city class for project"""
 from models.base_model import BaseModel
 
-class city(BaseModel):
+
+class City(BaseModel):
     """describes a city.
     Attributes:
         state_id,

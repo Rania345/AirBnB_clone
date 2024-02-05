@@ -2,7 +2,8 @@
 """user class for project"""
 from models.base_model import BaseModel
 
-class user(BaseModel):
+
+class User(BaseModel):
     """describes a user.
     Attributes:
     email,

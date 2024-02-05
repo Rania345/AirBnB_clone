@@ -2,7 +2,8 @@
 """state class for project"""
 from models.base_model import BaseModel
 
-class state(BaseModel):
+
+class State(BaseModel):
     """describes a state.
     Attributes:
     name.
