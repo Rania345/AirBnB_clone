@@ -5,6 +5,25 @@ This team project is part of the ALX School Full-Stack Software Engineer program
 ### Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
+### Primary Objective
+ This project focuses on the development of the console part
+ of the Air bnb clone holberton project which consists of 7 stages.
+
+* The Console
+* HTML
+* My SQL
+* HTML with Fabric
+* Flask web application server
+* REST API
+* WEB Dynamic
+
+#### Functionalities of this command interpreter:
+* Create a new object (ex: a new User or a new Place)
+* Retrieve an object from a file, a database etc...
+* Do operations on objects (count, compute stats, etc...)
+* Update attributes of an object
+* Destroy an object
+
 ### Installation
 * Clone this repository: `git clone "https://github.com/rania345/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
